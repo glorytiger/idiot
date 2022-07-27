@@ -1,0 +1,15 @@
+deck_size: 52
+player_color_1: Green
+player_color_2: Red
+player_color_3: Cyan
+player_color_4: Magenta
+hand_cards_foreground_color: White
+hand_cards_background_color: DarkGray
+faceup_cards_foreground_color: DarkBlue
+faceup_cards_background_color: DarkYellow
+facedown_cards_foreground_color: Cyan
+facedown_cards_background_color: DarkRed
+computer_base_delay: 500
+computer_swap_delay: 750
+computer_action_delay: 2500
+show_computer_options: false
