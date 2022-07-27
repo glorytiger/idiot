@@ -40,7 +40,7 @@ namespace SoftwareDesignEksamen
         }
 
         public int AskNumberOfComputerPlayers(int amountOfPlayers) {
-            int numOfPlayers = AskForNumber($"How many players should be constrolled by the Computer? (0-{amountOfPlayers})\n", 0, amountOfPlayers);
+            int numOfPlayers = AskForNumber($"How many players should be controlled by the Computer? (0-{amountOfPlayers})\n", 0, amountOfPlayers);
             PrintMessages.ClearScreen();
             return numOfPlayers;
         }
